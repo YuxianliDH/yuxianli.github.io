@@ -15,5 +15,5 @@ My research interests are focusing on developing practical techniques and tools 
 
 ## News
 
-Open my acdamic homepage!
+* 2020-05-24 Opened my academic homepage! 
 
