@@ -18,8 +18,8 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2018: Software Development Engineer
+  * Huawei Technologies Co., Ltd
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
@@ -37,6 +37,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+<!--
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -58,3 +59,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+-->
