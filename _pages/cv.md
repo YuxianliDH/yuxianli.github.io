@@ -20,13 +20,9 @@ Work experience
 ======
 * Summer 2018: Software Development Engineer
   * Huawei Technologies Co., Ltd
-  * Duties included: Tagging issues
+  * Duties included: Android JNI developing
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+<!--  
 Skills
 ======
 * Skill 1
@@ -36,7 +32,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-<!--
+
 Publications
 ======
   <ul>{% for post in site.publications %}
