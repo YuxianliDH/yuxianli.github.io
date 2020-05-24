@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
+I am a first year Dual-Degree PhD student in Software Engineering, advised by Prof. [He Jiang](http://faculty.dlut.edu.cn/jianghe/en/index.htm) in School of the Software in the Dalian University of Technology, and in Computer Science, advised by Prof. Archan Misra at the School of Information Systems in Singapore Management University. 
 
