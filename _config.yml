@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Haoxin Tu"
   avatar           : "website.png"
-  bio              : "PhD Candidate at Dalian University of Technology && Singapore Management University"
+  bio              : "PhD Candidate at DUT && SMU, interested in fuzzing, compiler testing, and program analysis"
   location         : "Dalian, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
