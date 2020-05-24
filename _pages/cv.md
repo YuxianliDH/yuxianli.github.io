@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+* B.S. in Electronic Information Engineering,  Northeast Forestry University (2013-2017)
+* M.S. in Software Engineering, Dalian University of Technology, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
