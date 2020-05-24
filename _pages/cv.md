@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electronic Information Engineering,  Northeast Forestry University (2013-2017)
-* M.S. in Software Engineering, Dalian University of Technology, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electronic Information Engineering,  Northeast Forestry University, 2013 - 2017
+* M.S. in Software Engineering, Dalian University of Technology, 2017 - 2019
+* Ph.D in Software Engineering, Dalian University of Technology, 2019 -
+* Ph.D in Computer Science, Singapore Management University, 2020 -
 
 Work experience
 ======
