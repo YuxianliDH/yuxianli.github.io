@@ -21,7 +21,6 @@ Work experience
 * Summer 2018: Software Development Engineer
   * Huawei Technologies Co., Ltd
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
   * Github University
