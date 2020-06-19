@@ -13,9 +13,11 @@ None
 -->
 
 <!--My research interests are focusing on developing practical techniques and tools that can help improve the correctness, reliability, and security of the system software. I am particularly interested in developing automated approaches (i.e. fuzzing) for engineering tasks such as testing or debugging in system software (i.e. compiler and Linux kernel) using program analysis methods (i.e. symbolic execution).
+-->
 
 ## News
 
 <!--* 2020-05-24 Opened my academic homepage! 
+-->
 
 
