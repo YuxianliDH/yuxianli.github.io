@@ -1,6 +1,6 @@
 ---
 title: "Compiler Testing Journey" 
-excerpt: "<br/><img src='/images/compiler-icon.png'>"
+excerpt: "<br/><img src='/images/compiler-icon-500x300.png'>"
 collection: portfolio
 ---
 
