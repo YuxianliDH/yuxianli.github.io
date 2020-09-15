@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Singapore Management University, 2020 -
-* Ph.D in Software Engineering, Dalian University of Technology, 2019 -
-* M.S. in Software Engineering, Dalian University of Technology, 2017 - 2019.
-* B.S. in Electronic Information Engineering,  Northeast Forestry University, 2013 - 2017.
+* Ph.D in Computer Science, at Singapore Management University, 2020 -
+* Ph.D in Software Engineering, at Dalian University of Technology, 2019 -
+* M.S. in Software Engineering, at Dalian University of Technology, 2017 - 2019.
+* B.S. in Electronic Information Engineering, at Northeast Forestry University, 2013 - 2017.
 
 Work experience
 ======
