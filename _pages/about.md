@@ -14,10 +14,10 @@ I am currently a Dual-degree PhD student in Software Engineering, advised by Pro
 My research interests are focusing on developing practical techniques and tools that can help improve the correctness, reliability, and security of the system software. I am particularly interested in developing automated approaches (i.e. fuzzing) for engineering tasks such as testing or debugging in system software (i.e. compiler and Linux kernel) using program analysis methods (i.e. symbolic execution).
 
 
-## News
+## Recent News
 
-  * No news is good news!
+  * [Dec 2020] Our paper was rejected from ICSE 2021... Hmmm, keep smile and move on!
 
-  * 2020-05-24 Opened my academic homepage! 
+  * [Mar 2020] Opened my academic homepage! 
 
 
