@@ -83,7 +83,7 @@ author:
   name             : "Haoxin Tu"
   avatar           : "website.png"
   bio              : "Dual-degree PhD Candidate at DUT && SMU, interested in fuzzing, compiler testing, and program analysis"
-  location         : "Dalian, China"
+  location         : "Singapore" #"Dalian, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
