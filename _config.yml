@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haoxin Tu"
+title                    : "Haoxin Tu's Homepage"
 title_separator          : "-"
 name                     : &name "Haoxin Tu"
 description              : &description "personal description"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Haoxin Tu"
+  name             : "Haoxin Tu (涂浩新)"
   avatar           : "website.png"
   bio              : "Dual-degree PhD Candidate at DUT && SMU, interested in fuzzing, compiler testing, and program analysis"
-  location         : "Singapore" #"Dalian, China"
+  location         : "SMU, Singapore" #"Dalian, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
