@@ -1,7 +1,7 @@
 ---
 title: 'PhD QE Reading List Notes'
 date: 2021-06-10
-permalink: /posts/2021/06/qe-readling-list-notes/
+permalink: /posts/2021/06/qe-reading-list-notes/
 tags:
   - cool posts
   - category1
