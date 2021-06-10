@@ -1,0 +1,14 @@
+---
+title: 'PhD QE Reading List Notes'
+date: 2021-06-10
+permalink: /posts/2020/06/qe-readling-list-notes/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
+
+This is a post test
+
+# Can this comment?
