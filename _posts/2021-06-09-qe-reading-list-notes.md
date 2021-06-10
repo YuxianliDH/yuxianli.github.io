@@ -3,9 +3,9 @@ title: 'Notes of QE Reading List Papers'
 date: 2021-06-09
 permalink: /posts/2021/06/qe-reading-list-notes/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - research
+  - recording
+  - paper reading
 ---
 
 
