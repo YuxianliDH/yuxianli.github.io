@@ -5,6 +5,7 @@ permalink: /posts/2021/06/qe-reading-list-notes/
 tags:
   - research
   - thinking
+location: "Singapore"
 ---
 
 
