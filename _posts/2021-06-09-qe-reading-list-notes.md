@@ -12,8 +12,8 @@ location: "Singapore"
 This page records the summary and my own understanding of each paper in PhD reading list for QE.
 
 <!-- TOC -->
-- [1. A Unified Approach to Global Program Optimization](#1-a-unified-approach-to-global-program-optimization-pdf)
-- [2. The Program Dependence Graph and Its Use in Optimization](#2-the-program-dependence-graph-and-its-use-in-optimization-pdf)
+- [1. A Unified Approach to Global Program Optimization (POPL 1973)](#1-a-unified-approach-to-global-program-optimization-pdf)
+- [2. The Program Dependence Graph and Its Use in Optimization (TOPLAS 1987)](#2-the-program-dependence-graph-and-its-use-in-optimization-pdf)
 
 ### 1. A Unified Approach to Global Program Optimization [[PDF]](https://github.com/haoxintu/haoxintu.github.io/blob/master/files/1-A%20Unified%20Approach%20to%20Global%20Program%20Optimization.pdf)
 
