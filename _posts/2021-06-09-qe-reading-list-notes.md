@@ -12,7 +12,7 @@ This page records the summary and my own understanding of each paper in PhD read
 
 <!-- TOC -->
 - [1. A Unified Approach to Global Program Optimization](#1-a-unified-approach-to-global-program-optimization)
-- [2. The Program Dependence Graph and Its Use in Optimization](#7-Conclusion)
+- [2. The Program Dependence Graph and Its Use in Optimization](#2-the-program-dependence-graph-and-its-use-in-optimization)
 
 ### 1. A Unified Approach to Global Program Optimization
 
