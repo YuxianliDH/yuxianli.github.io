@@ -14,6 +14,7 @@ This page records the summary and my own understanding of each paper in PhD read
 <!-- TOC -->
 - [1. A Unified Approach to Global Program Optimization (POPL 1973)](#1-a-unified-approach-to-global-program-optimization-pdf)
 - [2. The Program Dependence Graph and Its Use in Optimization (TOPLAS 1987)](#2-the-program-dependence-graph-and-its-use-in-optimization-pdf)
+- [3. Yesterday, my program worked. Today, it does not. Why? (ESEC/FSE 1999)](#3)
 
 ### 1. A Unified Approach to Global Program Optimization [[PDF]](https://github.com/haoxintu/haoxintu.github.io/blob/master/files/1-A%20Unified%20Approach%20to%20Global%20Program%20Optimization.pdf)
 
@@ -24,3 +25,5 @@ This page records the summary and my own understanding of each paper in PhD read
 
 * **Abstract**
   * In this paper we present an intermediate program representation, called the program dependence graph (PDG), that makes explicit both the data and control dependences for each operation in a program. Data dependences have been used to represent only the relevant data flow relationships of a program. Control dependences are introduced to analogously represent only the essential control flow relationships of a program. Control dependences are derived from the usual control flow graph. Many traditional optimizations operate more efficiently on the PDG. Since dependences in the PDG connect computationally related parts of the program, a single walk of these dependences is sufficient to perform many optimizations. The PDG allows transformations such as vectorization, that previously required special treatment of control dependence, to be performed in a manner that is uniform for both control and data dependences. Program transformations that require interaction of the two dependence types can also be easily handled with our representation. As an example, an incremental approach to modifying data dependences resulting from branch deletion or loop unrolling is introduced. The PDG supports incremental optimization, permitting transformations to be triggered by one another and applied only to affected dependences.
+
+### 3. Yesterday, my program worked. Today, it does not. Why? [[PDF]]()
