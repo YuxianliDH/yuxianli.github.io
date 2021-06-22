@@ -16,8 +16,8 @@ This page records the summary and my own understanding of each paper in PhD read
 - [2. The Program Dependence Graph and Its Use in Optimization (TOPLAS 1987)](#2-the-program-dependence-graph-and-its-use-in-optimization-pdf)
 - [3. Yesterday, my program worked. Today, it does not. Why? (ESEC/FSE 1999)](#3-yesterday-my-program-worked-today-it-does-not-why-pdf)
 - [4. Dynamically discovering likely program invariants to support program evolution (ICSE 1999)](#4-dynamically-discovering-likely-program-invariants-to-support-program-evolution-pdf)
-- [5. Bandera: extracting finite-state models from Java source code (ICSE 2000)]
-- [6. CUTE: a concolic unit testing engine for C (ESEC/FSE 2005)]
+- [5. Bandera: extracting finite-state models from Java source code (ICSE 2000)](#5-bandera-extracting-finite-state-models-from-java-source-code-pdf)
+- [6. CUTE: a concolic unit testing engine for C (ESEC/FSE 2005)](#6-cute-a-concolic-unit-testing-engine-for-c-pdf)
 
 ### 1. A Unified Approach to Global Program Optimization [[PDF]](https://github.com/haoxintu/haoxintu.github.io/blob/master/files/1-A%20Unified%20Approach%20to%20Global%20Program%20Optimization.pdf)
 
