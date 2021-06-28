@@ -18,7 +18,8 @@ This page records the summary and my own understanding of each paper in PhD read
 - [4. Dynamically discovering likely program invariants to support program evolution (ICSE 1999)](#4-dynamically-discovering-likely-program-invariants-to-support-program-evolution-pdf)
 - [5. Bandera: extracting finite-state models from Java source code (ICSE 2000)](#5-bandera-extracting-finite-state-models-from-java-source-code-pdf)
 - [6. CUTE: a concolic unit testing engine for C (ESEC/FSE 2005)](#6-cute-a-concolic-unit-testing-engine-for-c-pdf)
-- [7. code2vec: Learning Distributed Representations of Code (POPL 2019)(#)]
+- [7. code2vec: Learning Distributed Representations of Code (POPL 2019)](#7-code2vec-learning-distributed-representations-of-code-pdf)
+- [8. Empirical Evaluation of the Tarantula Automatic Fault-Localization Technique](#8-empirical-evaluation-of-the-tarantula-automatic-fault-localization-technique-pdf)
 
 ### 1. A Unified Approach to Global Program Optimization [[PDF]](https://github.com/haoxintu/haoxintu.github.io/blob/master/files/1-A%20Unified%20Approach%20to%20Global%20Program%20Optimization.pdf)
 
