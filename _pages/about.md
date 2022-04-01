@@ -15,7 +15,7 @@ I am currently a Dual-degree PhD student in *Software Engineering*, supervised b
 <p align="right"> - Paul R. Ehrlich </p>
 
 
-My research interests are focusing on developing practical techniques and tools that can help improve the correctness, reliability, and security of the system software. I am particularly interested in developing automated approaches (i.e. fuzzing) for engineering tasks such as testing or debugging in system software (i.e. compiler and Linux kernel) using program analysis methods (i.e. symbolic execution).
+My research interests are focusing on developing practical techniques and tools that can help improve the correctness, reliability, and security of system software. I am particularly interested in developing automated approaches (i.e. fuzzing) for engineering tasks such as testing or debugging in system software (i.e. compiler and Linux kernel) using program analysis methods (i.e. symbolic execution).
 
 
 ## Recent News
