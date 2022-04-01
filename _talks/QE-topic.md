@@ -8,4 +8,4 @@ date: 2021-11-18
 location: "Oneline (ZOOM)"
 ---
 
-This is the main research topic I will follow during my PhD study in SMU.
+The main research topic I will follow during my PhD study in SMU (see more details in [slides](https://haoxintu.github.io/files/qe-slides.pdf)).
