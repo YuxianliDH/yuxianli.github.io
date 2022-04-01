@@ -12,8 +12,8 @@ I am currently a Dual-degree PhD student in Software Engineering, advised by Pro
 
 
 
-<h2 align="center" style="font-size:160%;" > <i> "To err is human, but to really foul things up you need a computer."</i></h2>
-<h3 align="right"> - Paul R. Ehrlich  </h3>
+<h3 align="center" style="font-size:160%;" > <i> "To err is human, but to really foul things up you need a computer."</i></h3>
+<h4 align="right"> - Paul R. Ehrlich  </h4>
 
 
 
