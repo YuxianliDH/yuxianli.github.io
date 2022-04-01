@@ -23,7 +23,7 @@ This page records the summary and my own understanding of each paper in PhD read
 - [9. Bugs as deviant behavior: a general approach to inferring errors in systems code (SOSP 2001)](#9-bugs-as-deviant-behavior-a-general-approach-to-inferring-errors-in-systems-code-pdf)
 - [10. Mining specifications (POPL 2002)](#10-mining-specifications-pdf)
 
-### 1. A Unified Approach to Global Program Optimization [[PDF]](https://haoxintu.github.io/blob/master/files/1-A%20Unified%20Approach%20to%20Global%20Program%20Optimization.pdf)
+### 1. A Unified Approach to Global Program Optimization [[PDF]](https://haoxintu.github.io/files/1-A%20Unified%20Approach%20to%20Global%20Program%20Optimization.pdf)
 
 * **Abstract:** A technique is presented for global analysis of program structure in order to perform compile time optimization of object code generated for expressions. The global expression optimization presented includes constant propagation, common subexpression elimination, elimination of redundant register load operations, and live expression analysis. A general purpose program flow analysis algorithm is developed which depends upon the existence of an "optimizing function." The algorithm is defined formally using a directed graph model of program flow structure, and is shown to be correct. Several optimizing functions are defined which, when used in conjunction with the flow analysis algorithm, provide the various forms of code optimization. The flow analysis algorithm is sufficiently general that additional functions can easily be defined for other forms of global code optimization.
 
