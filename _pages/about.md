@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Dual-degree PhD student in Software Engineering, advised by Prof. [ He Jiang ](http://faculty.dlut.edu.cn/jianghe/en/index.htm), at the School of Software in [ Dalian University of Technology](http://en.dlut.edu.cn/), and in Computer Science, advised by Prof. [ Lingxiao Jiang ](http://www.mysmu.edu/faculty/lxjiang/) and Prof. [ Xuhua Ding ](http://www.mysmu.edu/faculty/xhding/), at the School of Computing and Information Systems in [ Singapore Management University ](https://www.smu.edu.sg/). 
+I am currently a Dual-degree PhD student in *Software Engineering*, supervised by Prof. [ He Jiang ](http://faculty.dlut.edu.cn/jianghe/en/index.htm), at the School of Software in [ Dalian University of Technology](http://en.dlut.edu.cn/), and in *Computer Science*, supervised by Prof. [ Lingxiao Jiang ](http://www.mysmu.edu/faculty/lxjiang/) and Prof. [ Xuhua Ding ](http://www.mysmu.edu/faculty/xhding/), at the School of Computing and Information Systems in [ Singapore Management University ](https://www.smu.edu.sg/). 
 
 
 <p align="center" > <b> <i> <big> "To err is human, but to really foul things up you need a computer." </big> </i></b></p>
