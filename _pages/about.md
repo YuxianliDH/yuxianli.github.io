@@ -24,7 +24,7 @@ My research interests focus on developing practical techniques and tools that ca
 
   * [Mar 2020] Opened my academic homepage! 
 
-<p align="right"> [last updated on March 2021] </p>
+<p align="right"> [Last updated on March 2021] </p>
 
 
 
