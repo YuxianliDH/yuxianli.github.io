@@ -1,5 +1,6 @@
 ---
 title: "My Chinese Website" 
+date: 2020-05-21
 excerpt: "<br/><img src='/images/chinese-web-small.png'>"
 collection: portfolio
 ---
