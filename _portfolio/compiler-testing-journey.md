@@ -1,5 +1,6 @@
 ---
 title: "Compiler Testing Journey" 
+date: 2020-05-21
 excerpt: "<br/><img src='/images/compiler-icon-300x200.png'>"
 collection: portfolio
 ---
