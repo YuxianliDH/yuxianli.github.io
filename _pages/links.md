@@ -23,7 +23,7 @@ Reading/Writing Research Paper
 
 Doing Research
 ======
-* <[Advice on Getting a Start into Research](http://taoxie.cs.illinois.edu/adviceonresearch.html)> by [Tao Xie](http://taoxie.cs.illinois.edu/index.html) 
+* <[Advice on Getting a Start into (Software Engineering) Research](http://taoxie.cs.illinois.edu/adviceonresearch.html)> by [Tao Xie](http://taoxie.cs.illinois.edu/index.html) 
 
 * <[On Impact in Software Engineering Research](https://haoxintu.github.io/files/impact_se_Andreas_Zeller.pdf)> by [Andreas Zeller](https://andreas-zeller.info/)
 
