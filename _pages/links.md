@@ -21,6 +21,7 @@ Reading/Writing Research Paper
 
 * <[Why I gave your paper a Strong Reject](http://matt-welsh.blogspot.com/2016/04/why-i-gave-your-paper-strong-reject.html)> by [Matt Welsh](https://www.mdw.la/)
 
+* <[Writing Good Software Engineering Research Papers](https://www.cs.cmu.edu/~Compose/shaw-icse03.pdf)> by [Mary Shaw ](https://isri.cmu.edu/people/core-faculty/shaw-mary.html)
 
 
 Doing Research
