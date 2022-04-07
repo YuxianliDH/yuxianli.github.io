@@ -30,3 +30,5 @@ Doing Research
 
 * <[On Impact in Software Engineering Research](https://haoxintu.github.io/files/impact_se_Andreas_Zeller.pdf)> by [Andreas Zeller](https://andreas-zeller.info/)
 
+* <[The Three Golden Rules for Successful Scientific Research](http://www.cs.utexas.edu/~EWD/ewd06xx/EWD637.PDF)> by [Edsger W. Dijkstra](http://www.cs.utexas.edu/~EWD/)
+
