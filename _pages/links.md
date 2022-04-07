@@ -19,6 +19,8 @@ Reading/Writing Research Paper
 
 * <[A Collection of Advices on Research and Writing](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html)>
 
+* <[Why I gave your paper a Strong Reject](http://matt-welsh.blogspot.com/2016/04/why-i-gave-your-paper-strong-reject.html)> by [Matt Welsh](https://www.mdw.la/)
+
 
 
 Doing Research
