@@ -21,9 +21,7 @@ Software systems written by humans tend to be unreliable and insecure. My resear
 ## Recent News
 
   * [Apr 2022] Our paper titled "*Detecting C++ Compiler Front-end Bugs via Grammar Mutation and Differential Testing*" has been accepted by IEEE Transactions on Reliability! (Highlight: we have reported 136, of which 67+ have been confirmed or fixed by developers, bugs in GCC and LLVM compiler front-ends in this study)
-
   * [Dec 2020] Our paper was rejected from ICSE 2021... Hmmm, keep smile and move on!
-
   * [Mar 2020] Opened my academic homepage! 
 
 <p align="right"> [Last updated on March 2021] </p>
