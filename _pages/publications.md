@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### Conference
 
- 1. Under review.
+ 1. [ISSRE'2022] **Haoxin Tu**, He Jiang, Xiaochen Li, Zhilei Ren, Zhide Zhou and Lingxiao Jiang, "RemGen: Remanufacturing A Random Program Generator for Compiler Testing", in *the 33rd IEEE International Symposium on Software Reliability Engineering (ISSRE 2022)*. To appear.
 
 
 ### Journal
