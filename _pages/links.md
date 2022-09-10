@@ -27,6 +27,7 @@ redirect_from:
 * [ACM SIGSOFT Impact Paper Award](https://www.sigsoft.org/awards/impactPaperAward.html)
 * [ICSE MOST INFLUENTIAL PAPER AWARD](http://www.icse-conferences.org/mostinfluential.html)
 * [USENIX-Best Papers(including USENIX Security, USENIX ATC, SOUPS, FAST, OSDI)](https://www.usenix.org/conferences/best-papers)
+* [ACM CCS The Best Paper Awards](https://www.sigsac.org/ccs/CCS_awards/ccs-bestpaper.html)
 * [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)
 
 
