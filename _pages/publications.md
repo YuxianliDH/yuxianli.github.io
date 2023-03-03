@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ### Conference
-
+ * [ICSE 2023] **Haoxin Tu**, "Boosting Symbolic Execution for Heap-based Vulnerability Detection and Exploit Generation", in *the Doctoral Symposium Track of IEEE/ACM International Conference on Software Engineering (ICSE 2023)*. [[Pre-print]](https://haoxintu.github.io/files/ICSE2023DS_camera_ready.pdf)
  * [ESEC/FSE 2022] **Haoxin Tu**, Lingxiao Jiang, Xuhua Ding, and He Jiang, "FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers", in *the Tool Demonstrations Track of ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022)*. [[PDF]](https://haoxintu.github.io/files/fse2022-FastKLEE.pdf) [[Source Code]](https://github.com/haoxintu/FastKLEE) [[Video Demo]](https://youtu.be/iLLlZD384zM) [[Slides]](https://haoxintu.github.io/files/FastKLEE-slides.pdf)
  * [ISSRE 2022] **Haoxin Tu**, He Jiang, Xiaochen Li, Zhilei Ren, Zhide Zhou, and Lingxiao Jiang, "RemGen: Remanufacturing A Random Program Generator for Compiler Testing", in *the 33rd IEEE International Symposium on Software Reliability Engineering (ISSRE 2022)*. [[PDF]](https://haoxintu.github.io/files/issre2022-camera-ready.pdf) [[Source Code]](https://github.com/haoxintu/RemCCG) [[Slides]](https://haoxintu.github.io/files/RemGen-slides.pdf)
 
