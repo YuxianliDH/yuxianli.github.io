@@ -20,7 +20,7 @@ Software systems written by humans tend to be unreliable and insecure. My resear
 
 ## Recent News
 
-  * [Jul 2023] We released a new paper "[*LLM4CBI: Taming LLMs to Generate Effective Test Programs for Compiler Bug Isolation*](https://arxiv.org/pdf/2307.00593.pdf)", where we investigated the code generation capability of LLMs (e.g., ChatGPT) for the compiler bug isolation task!
+  * [Jul 2023] We released a new paper "[*LLM4CBI: Taming LLMs to Generate Effective Test Programs for Compiler Bug Isolation*](https://arxiv.org/abs/2307.00593)", where we investigated the code generation capability of LLMs (e.g., ChatGPT) for the compiler bug isolation task!
   * [Mar 2023] One paper titled "*Boosting Symbolic Execution for Heap-based Vulnerability Detection and Exploit Generation*" has been accepted to the Doctoral Symposium Track of IEEE/ACM International Conference on Software Engineering (ICSE 2023)! See you in Melbourne!
   * [Oct 2022] I received *National Scholarship for Doctoral Students* from DUT! Thanks to everyone who helped me along the way!
   * [Aug 2022] Our paper titled "*FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers*" has been accepted to the Tool Demonstrations Track of ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022)!
