@@ -20,7 +20,7 @@ Software systems written by humans tend to be unreliable and insecure. My resear
 
 ## Recent News
 
-  * [Sep 2023] A co-authored paper titled "*KRover: A Symbolic Execution Engine for Dynamic Kernel Analysis*" was accepted to the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS'23), where we explored a new flavor of symbolic execution for kernel analysis!
+  * [Sep 2023] A co-authored paper titled "*KRover: A Symbolic Execution Engine for Dynamic Kernel Analysis*" was accepted to the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS 2023), where we explored a new flavor of symbolic execution for kernel analysis!
   * [Jul 2023] We released a new paper "[*LLM4CBI: Taming LLMs to Generate Effective Test Programs for Compiler Bug Isolation*](https://arxiv.org/abs/2307.00593)", where we investigated the code generation capability of LLMs (e.g., ChatGPT) for the compiler bug isolation task!
   * [Mar 2023] One paper titled "*Boosting Symbolic Execution for Heap-based Vulnerability Detection and Exploit Generation*" has been accepted to the Doctoral Symposium Track of IEEE/ACM International Conference on Software Engineering (ICSE 2023)! See you in Melbourne!
   * [Oct 2022] I received *National Scholarship for Doctoral Students* from DUT! Thanks to everyone who helped me along the way!
