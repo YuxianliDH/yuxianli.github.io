@@ -2,9 +2,6 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 
 I embed a current version of my CV below (not finished yet). You can also [download the PDF here](/files/cv-test.pdf).
@@ -13,6 +10,9 @@ I embed a current version of my CV below (not finished yet). You can also [downl
 
 
 <!--  
+author_profile: true
+redirect_from:
+  - /resume
 {% include base_path %}
 
 Education
