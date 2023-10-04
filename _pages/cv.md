@@ -7,6 +7,12 @@ redirect_from:
   - /resume
 ---
 
+I embed a current version of my CV below (not finished yet). You can also [download the PDF here](/files/cv-test.pdf).
+
+<iframe src="https://haoxintu.github.io/files/cv-test.pdf" class="gde-frame" style="height: 1000px; width: 100%; border: none;" scrolling="yes"></iframe>
+
+
+<!--  
 {% include base_path %}
 
 Education
@@ -22,7 +28,7 @@ Work experience
   * Huawei Technologies Co., Ltd
   * Duties included: Android JNI developing
 
-<!--  
+
 Skills
 ======
 * Skill 1
