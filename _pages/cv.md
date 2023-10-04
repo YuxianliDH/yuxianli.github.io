@@ -1,21 +1,15 @@
 ---
 layout: archive
-title: "CV"
+title: "CV Info"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 
-Will be updated soon...
-
-<!--  
 I embed a current version of my CV below (not finished yet). You can also [download the PDF here](/files/cv.pdf).
 
 <iframe src="https://haoxintu.github.io/files/cv.pdf" class="gde-frame" style="height: 1000px; width: 100%; border: none;" scrolling="yes"></iframe>
 
 
- 
+<!--  
 author_profile: true
 redirect_from:
   - /resume
