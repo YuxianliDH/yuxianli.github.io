@@ -17,7 +17,7 @@ I am currently a Dual-degree PhD student in *Software Engineering*, supervised b
 
 Software systems written by humans tend to be unreliable and insecure. My research interests focus on developing practical techniques and tools that can help improve the reliability and security of software systems (mainly system software such as compilers and Linux kernels). I am quite interested in developing advanced automated approaches, based on program analysis techniques such as fuzzing and symbolic execution, to resolve labor-intensive engineering tasks, e.g., automatic bug finding and exploit generation. 
 
-👉 <span style="color:red">I am seeking **Summer Intern** opportunities in 2024. Please kindly check my [CV](/files/cv.pdf) for your perusal and drop me an email if you offer any relevant positions (both academic or industrial are welcome!). Let's work together to push the boundaries a bit further! </span>
+👉 <span style="color:red">**I am seeking *Summer Intern* opportunities *in 2024*. Please kindly check my [CV](/files/cv.pdf) for your perusal and drop me an email if you offer any relevant positions (both academic or industrial are welcome!). Let's work together to push the boundaries a bit further!** </span>
 
 
 ## Recent News
