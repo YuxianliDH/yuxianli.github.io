@@ -22,10 +22,10 @@ for Memory Error Detection", Major Revision on *IEEE TSE*. To appear. [[Source C
 
 ### Ph.D. Thesis
 
- * Dissertation For [DUT](https://www.dlut.edu.cn/):
+ * Dissertation submitted to [DUT](https://www.dlut.edu.cn/):
    * **Research on Test Program Construction Approaches for Compiler Testing and Debugging**
      * **(in Chinese: 面向编译器测试与调试的程序构造方法研究)** [To appear]
- * Dissertation For [SMU](https://www.smu.edu.sg/):
+ * Dissertation submitted to [SMU](https://www.smu.edu.sg/):
    * **Boosting Symbolic Execution for Software Reliability and Security (Proposed)** [To appear]
 
 
