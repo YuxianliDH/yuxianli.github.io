@@ -18,6 +18,14 @@ author_profile: true
  *  [2023] **Haoxin Tu**, Lingxiao Jiang, Jiaqi Hong, Xuhua Ding, and He Jiang, "Concretely Mapped Symbolic Memory Locations
 for Memory Error Detection", Major Revision on *IEEE TSE*. To appear. [[Source Code]](https://github.com/haoxintu/SymLoc)
  * [2023] **Haoxin Tu**, Zhide Zhou, He Jiang, Imam Nur Bani Yusuf, Yuxian Li, and Lingxiao Jiang, "LLM4CBI: Taming LLMs to Generate Effective Test Programs for Compiler Bug Isolation", Major Revision on *IEEE TSE*. [[arXiv]](https://haoxintu.github.io/files/llm4cbi-2023-arxiv.pdf) [[Source Code]](https://github.com/haoxintu/LLM4CBI)
+ * 
+
+ ### Ph.D. Thesis
+
+ * Dissertation For [DUT](https://www.dlut.edu.cn/):
+   * **面向编译器测试与调试的程序构造方法研究 (Research on Test Program Construction Approaches for Compiler Testing and Debugging).** [To appear]
+ * Dissertation For [SMU](https://www.smu.edu.sg/):
+   * **Boosting Symbolic Execution for Software Reliability and Security (Proposed).** [To appear]
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
