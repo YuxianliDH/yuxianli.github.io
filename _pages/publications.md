@@ -20,7 +20,7 @@ for Memory Error Detection", Major Revision on *IEEE TSE*. To appear. [[Source C
  * [2023] **Haoxin Tu**, Zhide Zhou, He Jiang, Imam Nur Bani Yusuf, Yuxian Li, and Lingxiao Jiang, "LLM4CBI: Taming LLMs to Generate Effective Test Programs for Compiler Bug Isolation", Major Revision on *IEEE TSE*. [[arXiv]](https://haoxintu.github.io/files/llm4cbi-2023-arxiv.pdf) [[Source Code]](https://github.com/haoxintu/LLM4CBI)
 
 
- ### PhD Thesis
+### Ph.D. Thesis
 
  * Dissertation For [DUT](https://www.dlut.edu.cn/):
    * **Research on Test Program Construction Approaches for Compiler Testing and Debugging**
