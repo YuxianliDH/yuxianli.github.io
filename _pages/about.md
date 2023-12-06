@@ -22,6 +22,7 @@ Software systems written by humans tend to be unreliable and insecure. My resear
 
 ## Recent News
 
+  * [Dec 2023] **I have successfully defended my PhD thesis at DUT!** A milestone has been achieved, and I will keep fighting for another one :smiley:
   * [Nov 2023] Our paper titled "*Beyond a Joke: Dead Code Elimination Can Delete Live Code*" has been accepted to the NIER Track of the 46th IEEE ACM International Conference on Software Engineering (ICSE-NIER 2024)! See you in Lisbon!
   * [Sep 2023] A co-authored paper titled "*KRover: A Symbolic Execution Engine for Dynamic Kernel Analysis*" was accepted to the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS 2023), where we explored a new flavor of symbolic execution for kernel analysis!
   * [Jul 2023] We released a new paper "[*LLM4CBI: Taming LLMs to Generate Effective Test Programs for Compiler Bug Isolation*](https://arxiv.org/abs/2307.00593)", where we investigated the code generation capability of LLMs (e.g., ChatGPT) for the compiler bug isolation task!
@@ -33,7 +34,7 @@ Software systems written by humans tend to be unreliable and insecure. My resear
   * [Dec 2020] Our paper was rejected from ICSE 2021... Hmmm, keep smiling and move on!
   * [Mar 2020] Opened my academic homepage! 
 
-<p align="right"> [Last updated on November 2023] </p>
+<p align="right"> [Last updated on December 2023] </p>
 
 
 
