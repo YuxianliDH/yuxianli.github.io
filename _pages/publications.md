@@ -24,7 +24,7 @@ for Memory Error Detection", Major Revision on *IEEE TSE*. To appear. [[Source C
 
  * Dissertation submitted to [DUT](https://www.dlut.edu.cn/):
    * **Research on Test Program Construction Approaches for Compiler Testing and Debugging**
-     * **(in Chinese: 面向编译器测试与调试的程序构造方法研究)** [To appear]
+     * **(in Chinese: 面向编译器测试与调试的程序构造方法研究)** [To appear] [[Slides]](https://haoxintu.github.io/files/dut_phd_thesis_defense_slides.pdf)
  * Dissertation submitted to [SMU](https://www.smu.edu.sg/):
    * **Boosting Symbolic Execution for Software Reliability and Security (Proposed)** [To appear]
 
