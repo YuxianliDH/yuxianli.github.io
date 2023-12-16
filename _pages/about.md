@@ -17,11 +17,13 @@ I am currently a Dual-degree PhD student in *Software Engineering*, supervised b
 
 Software systems written by humans tend to be unreliable and insecure. My research interests focus on developing practical techniques and tools that can help improve the reliability and security of software systems (mainly system software such as compilers and Linux kernels). I am quite interested in developing advanced automated approaches, based on program analysis techniques such as fuzzing and symbolic execution, to resolve labor-intensive engineering tasks, e.g., automatic bug finding and exploit generation. 
 
+<!---
 👉 <span style="color:red">**I am seeking *Summer Intern* opportunities *in 2024*. Please kindly check my [CV](/files/cv.pdf) and feel free to drop me an email if you are offering any relevant positions (in either academia or industry). Let's work together to constantly push the boundaries a bit further!** </span>
-
+--->
 
 ## Recent News
 
+  * [Dec 2023] I will be joining the [Max Planck Institute for Security and Privacy (MPI-SP)](https://mpi-softsec.github.io/) group as a *Research Intern* in the Summer of 2024! Many thanks to [Marcel Böhme](https://mpi-softsec.github.io) for giving me such an opportunity! 
   * [Dec 2023] **I have successfully defended my PhD thesis at DUT!** A milestone has been achieved, and I will keep fighting for another one 😃.
   * [Nov 2023] Our paper titled "*Beyond a Joke: Dead Code Elimination Can Delete Live Code*" has been accepted to the NIER Track of the 46th IEEE ACM International Conference on Software Engineering (ICSE-NIER 2024)! See you in Lisbon!
   * [Sep 2023] A co-authored paper titled "*KRover: A Symbolic Execution Engine for Dynamic Kernel Analysis*" was accepted to the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS 2023), where we explored a new flavor of symbolic execution for kernel analysis!
