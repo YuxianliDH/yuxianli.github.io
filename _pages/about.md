@@ -23,7 +23,7 @@ Software systems written by humans tend to be unreliable and insecure. My resear
 
 ## Recent News
 
-  * [Feb 2024] **I have passed my Ph.D. Dissertation Proposal at SMU!** Great appreciation for my amazing dissertation committee members!
+  * [Feb 2024] **I have passed my Ph.D. Dissertation Proposal Defense at SMU!** Great appreciation for my amazing dissertation committee members!
   * [Dec 2023] I will be joining [Max Planck Institute for Security and Privacy (MPI-SP)](https://mpi-softsec.github.io/) group as a *Research Intern* in the Summer of 2024! Many thanks to [Marcel Böhme](https://mboehme.github.io/) for giving me such a precious opportunity! 
   * [Dec 2023] **I have successfully defended my PhD thesis at DUT!** A milestone has been achieved, and I will keep fighting for another one 😃.
   * [Nov 2023] Our paper titled "*Beyond a Joke: Dead Code Elimination Can Delete Live Code*" has been accepted to the NIER Track of the 46th IEEE ACM International Conference on Software Engineering (ICSE-NIER 2024)! See you in Lisbon!
