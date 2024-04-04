@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Dual-degree PhD student in *Software Engineering*, supervised by Prof. [ He Jiang ](http://faculty.dlut.edu.cn/jianghe/en/index.htm), at the School of Software in [ Dalian University of Technology (DUT)](http://en.dlut.edu.cn/), and in *Computer Science*, supervised by Prof. [ Lingxiao Jiang ](http://www.mysmu.edu/faculty/lxjiang/) and Prof. [ Xuhua Ding ](http://www.mysmu.edu/faculty/xhding/), at the School of Computing and Information Systems in [ Singapore Management University (SMU)](https://www.smu.edu.sg/). 
+Haoxin is currently a Dual-degree Ph.D. candidate in *Software Engineering*, supervised by Prof. [ He Jiang ](http://faculty.dlut.edu.cn/jianghe/en/index.htm), at the School of Software in [ Dalian University of Technology (DUT)](http://en.dlut.edu.cn/), and in *Computer Science*, supervised by Prof. [ Lingxiao Jiang ](http://www.mysmu.edu/faculty/lxjiang/) and Prof. [ Xuhua Ding ](http://www.mysmu.edu/faculty/xhding/), at the School of Computing and Information Systems in [ Singapore Management University (SMU)](https://www.smu.edu.sg/). He earned his first Ph.D. degree from DUT in December 2023.
 
 
 <p align="center" > <b> <i> <big> "To err is human, but to really foul things up you need a computer." </big> </i></b></p>
 <p align="right"> - Paul R. Ehrlich </p>
 
 
-Software systems written by humans tend to be unreliable and insecure. My research interests focus on developing practical techniques and tools that can help improve the reliability and security of software systems (mainly system software such as compilers and Linux kernels). I am quite interested in developing advanced automated approaches, based on program analysis techniques such as fuzzing and symbolic execution, to resolve labor-intensive engineering tasks, e.g., automatic bug finding and exploit generation. 
+Software systems written by humans tend to be unreliable and insecure. My research interests focus on developing practical techniques and tools that can help improve the reliability and security of software systems (mainly system software such as compilers and Linux kernels). He is quite interested in developing advanced automated approaches, based on program analysis techniques such as fuzzing and symbolic execution, to resolve labor-intensive engineering tasks, e.g., automatic bug finding and exploit generation. 
 
 <!---
 👉 <span style="color:red">**I am seeking *Summer Intern* opportunities *in 2024*. Please kindly check my [CV](/files/cv.pdf) and feel free to drop me an email if you are offering any relevant positions (in either academia or industry). Let's work together to constantly push the boundaries a bit further!** </span>
