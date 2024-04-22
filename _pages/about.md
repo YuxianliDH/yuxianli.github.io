@@ -23,6 +23,7 @@ Software systems written by humans tend to be unreliable and insecure. My resear
 
 ## Recent News
 
+  * [Apr 2024] Our paper titled "*Concretely Mapped Symbolic Memory Locations for Memory Error Detection*" has been accepted to the IEEE Transactions on Software Engineering!
   * [Feb 2024] **I have passed my Ph.D. Dissertation Proposal Defense at SMU!** Great appreciation for my amazing dissertation committee members!
   * [Dec 2023] I will be joining [Max Planck Institute for Security and Privacy (MPI-SP)](https://mpi-softsec.github.io/) group as a *Research Intern* in the Summer of 2024! Many thanks to [Marcel Böhme](https://mboehme.github.io/) for giving me such a precious opportunity! 
   * [Dec 2023] **I have successfully defended my PhD thesis at DUT!** A milestone has been achieved, and I will keep fighting for another one 😃.
@@ -37,7 +38,7 @@ Software systems written by humans tend to be unreliable and insecure. My resear
   * [Dec 2020] Our paper was rejected from ICSE 2021... Hmmm, keep smiling and move on!
   * [Mar 2020] Opened my academic homepage! 
 
-<p align="right"> [Last updated on February 2024] </p>
+<p align="right"> [Last updated on April 2024] </p>
 
 
 
