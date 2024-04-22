@@ -14,9 +14,9 @@ author_profile: true
 
 ### Journal Paper
 
+ * [TSE 2024] **Haoxin Tu**, Lingxiao Jiang, Jiaqi Hong, Xuhua Ding, and He Jiang, "Concretely Mapped Symbolic Memory Locations
+for Memory Error Detection", Accepted on *IEEE Transactions on Software Engineering*. [[PDF]](https://haoxintu.github.io/files/SymLoc_TSE2024_Just_Accepted.pdf) [[Source Code]](https://github.com/haoxintu/SymLoc)
  * [TR 2022] **Haoxin Tu**, He Jiang, Zhide Zhou, Yixuan Tang, Zhilei Ren, Lei Qiao, and Lingxiao Jiang, "Detecting C++ Compiler Front-end Bugs via Grammar Mutation and Differential Testing", in *IEEE Transactions on Reliability*, 2022. [[IEEE Early Access]](https://ieeexplore.ieee.org/document/9777893) [[Authors' Draft]](https://haoxintu.github.io/files/tr-2022-draft.pdf) [[Bug Reports]](https://github.com/haoxintu/CCOFT/blob/main/reported-bugs.md)
- *  [2023] **Haoxin Tu**, Lingxiao Jiang, Jiaqi Hong, Xuhua Ding, and He Jiang, "Concretely Mapped Symbolic Memory Locations
-for Memory Error Detection", Major Revision on *IEEE TSE*. To appear. [[Source Code]](https://github.com/haoxintu/SymLoc)
  * [2023] **Haoxin Tu**, Zhide Zhou, He Jiang, Imam Nur Bani Yusuf, Yuxian Li, and Lingxiao Jiang, "LLM4CBI: Taming LLMs to Generate Effective Test Programs for Compiler Bug Isolation", Major Revision on *IEEE TSE*. [[arXiv]](https://haoxintu.github.io/files/llm4cbi-2023-arxiv.pdf) [[Source Code]](https://github.com/haoxintu/LLM4CBI)
 
 
