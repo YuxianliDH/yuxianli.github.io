@@ -23,6 +23,7 @@ Software systems written by humans tend to be unreliable and insecure. My resear
 
 ## Recent News
 
+  * [Apr 2024] Our paper titled "*Isolating Compiler Bugs by Generating Effective Witness Programs with Large Language Models*" has been accepted by IEEE Transactions on Software Engineering!
   * [Apr 2024] Our paper titled "*Concretely Mapped Symbolic Memory Locations for Memory Error Detection*" has been accepted by IEEE Transactions on Software Engineering!
   * [Feb 2024] **I have passed my Ph.D. Dissertation Proposal Defense at SMU!** Great appreciation for my amazing dissertation committee members!
   * [Dec 2023] I will be joining [Max Planck Institute for Security and Privacy (MPI-SP)](https://mpi-softsec.github.io/) group as a *Research Intern* in the Summer of 2024! Many thanks to [Marcel Böhme](https://mboehme.github.io/) for giving me such a precious opportunity! 
