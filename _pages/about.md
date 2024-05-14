@@ -15,7 +15,7 @@ Haoxin is currently a Dual-degree Ph.D. candidate in *Computer Science*, supervi
 <p align="right"> - Paul R. Ehrlich </p>
 
 
-Software systems written by humans tend to be unreliable and insecure. My research interests focus on developing practical techniques and tools that can help improve the reliability and security of software systems (mainly system software such as compilers and Linux kernels). He is quite interested in developing advanced automated approaches, based on program analysis techniques such as fuzzing and symbolic execution, to resolve labor-intensive engineering tasks, e.g., automatic bug finding and exploit generation. 
+Software systems written by humans tend to be unreliable and insecure. My research interests focus on developing practical techniques and tools that can help improve the reliability and security of software systems (mainly system software such as compilers and Linux kernels). He is quite interested in developing advanced automated approaches, based on program analysis techniques such as fuzzing and symbolic execution, to resolve labor-intensive engineering tasks, e.g., automatic bug finding/debugging and exploit generation. 
 
 <!---
 👉 <span style="color:red">**I am seeking *Summer Intern* opportunities *in 2024*. Please kindly check my [CV](/files/cv.pdf) and feel free to drop me an email if you are offering any relevant positions (in either academia or industry). Let's work together to constantly push the boundaries a bit further!** </span>
@@ -40,7 +40,7 @@ Software systems written by humans tend to be unreliable and insecure. My resear
   * [Dec 2020] Our paper was rejected from ICSE 2021... Hmmm, keep smiling and move on!
   * [Mar 2020] Opened my academic homepage! 
 
-<p align="right"> [Last updated on April 2024] </p>
+<p align="right"> [Last updated on May 2024] </p>
 
 
 
