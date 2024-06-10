@@ -30,7 +30,8 @@ redirect_from:
 * [ACM CCS The Best Paper Awards](https://www.sigsac.org/ccs/CCS_awards/ccs-bestpaper.html)
 * [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)
 
-
+### Good Readings
+* [LLMs are compilers](https://vivekhaldar.com/articles/llms-are-compilers/)
 
 ### Others
 * [CCF SE/PL/System/Security Conference Deadlines](https://ccfddl.github.io/)
