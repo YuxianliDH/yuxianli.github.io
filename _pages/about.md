@@ -23,6 +23,7 @@ Software systems written by humans tend to be unreliable and insecure. My resear
 
 ## Recent News
 
+  * [July 2024] I am awarded the ***Presidential Doctoral Fellowship*** at SMU! Many thanks to my supervisors for their continuous support and help!
   * [May 2024] Arrived at beautiful Bochum in Germany and started the summer internship at [MPI-SP](https://mpi-softsec.github.io/) from now!
   * [Apr 2024] Our paper titled "***Isolating Compiler Bugs by Generating Effective Witness Programs with Large Language Models***" has been accepted by IEEE Transactions on Software Engineering!
   * [Apr 2024] Our paper titled "***Concretely Mapped Symbolic Memory Locations for Memory Error Detection***" has been accepted by IEEE Transactions on Software Engineering!
@@ -40,7 +41,7 @@ Software systems written by humans tend to be unreliable and insecure. My resear
   * [Dec 2020] Our paper was rejected from ICSE 2021... Hmmm, keep smiling and move on!
   * [Mar 2020] Opened my academic homepage! 
 
-<p align="right"> [Last updated on May 2024] </p>
+<p align="right"> [Last updated on July 2024] </p>
 
 
 
