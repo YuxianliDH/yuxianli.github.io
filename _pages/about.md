@@ -23,7 +23,7 @@ Software systems written by humans tend to be unreliable and insecure. My resear
 
 ## Recent News
 
-  * [July 2024] I am honored to be selected as a ***[Shadow PC member for ICSE'25](https://conf.researchr.org/track/icse-2025/icse-2025-shadow-research-track-program-committee)***! Looking forward to contributing to the community!
+  * [July 2024] I am honored to be selected as a ***[Shadow PC member of ICSE'25](https://conf.researchr.org/track/icse-2025/icse-2025-shadow-research-track-program-committee)***! Looking forward to contributing to the community!
   * [July 2024] I am awarded the ***Presidential Doctoral Fellowship*** at SMU! Many thanks to my supervisors for their continuous support and help!
   * [May 2024] Arrived at beautiful Bochum in Germany and started the summer internship at [MPI-SP](https://mpi-softsec.github.io/) from now!
   * [Apr 2024] Our paper titled "***Isolating Compiler Bugs by Generating Effective Witness Programs with Large Language Models***" has been accepted by IEEE Transactions on Software Engineering!
