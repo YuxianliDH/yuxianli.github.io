@@ -25,11 +25,11 @@ Software systems written by humans tend to be unreliable and insecure. My resear
 
   * [July 2024] I am honored to be selected as a *[Shadow PC member of ICSE'25](https://conf.researchr.org/track/icse-2025/icse-2025-shadow-research-track-program-committee)*! Looking forward to contributing to the community!
   * [July 2024] I am awarded the ***Presidential Doctoral Fellowship*** at SMU! Many thanks to my supervisors for their continuous support and help!
-  * [May 2024] Arrived at beautiful Bochum in Germany and started the summer internship at [MPI-SP](https://mpi-softsec.github.io/) from now!
+  * [May 2024] Arrived at beautiful Bochum in Germany and started the summer internship in [Dr. Marcel Böhme](https://mboehme.github.io/)'s group at [MPI-SP](https://mpi-softsec.github.io/) from now!
   * [Apr 2024] Our paper titled "***Isolating Compiler Bugs by Generating Effective Witness Programs with Large Language Models***" has been accepted by IEEE Transactions on Software Engineering!
   * [Apr 2024] Our paper titled "***Concretely Mapped Symbolic Memory Locations for Memory Error Detection***" has been accepted by IEEE Transactions on Software Engineering!
   * [Feb 2024] ***I have passed my Ph.D. Dissertation Proposal Defense at SMU!*** Great appreciation for my amazing dissertation committee members!
-  * [Dec 2023] I will be joining [Max Planck Institute for Security and Privacy (MPI-SP)](https://mpi-softsec.github.io/) group as a ***Research Intern*** in the Summer of 2024! Many thanks to [Marcel Böhme](https://mboehme.github.io/) for giving me such a precious opportunity! 
+  * [Dec 2023] I will be joining [Max Planck Institute for Security and Privacy (MPI-SP)](https://mpi-softsec.github.io/) group as a ***Research Intern*** in the Summer of 2024! Many thanks to [Dr. Marcel Böhme](https://mboehme.github.io/) for giving me such a precious opportunity! 
   * [Dec 2023] ***I have successfully defended my PhD thesis at DUT!*** A milestone has been achieved, and I will keep fighting for another one 😃.
   * [Nov 2023] Our paper titled "***Beyond a Joke: Dead Code Elimination Can Delete Live Code***" has been accepted by the NIER Track of the 46th IEEE ACM International Conference on Software Engineering (ICSE-NIER 2024)! See you in Lisbon!
   * [Sep 2023] A co-authored paper titled "***KRover: A Symbolic Execution Engine for Dynamic Kernel Analysis***" was accepted by the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS 2023), where we explored a new flavor of symbolic execution for kernel analysis!
