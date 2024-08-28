@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-### Conference Paper
+### Conference Papers
 * [ICSE 2024] **Haoxin Tu**, Lingxiao Jiang, Debin Gao, and He Jiang, "**Beyond a Joke: Dead Code Elimination Can Delete Live Code**", in *Proceedings of 46th IEEE ACM International Conference on Software Engineering (ICSE-NIER 2024)*. [[PDF]](https://haoxintu.github.io/files/icse2024-nier-camera-ready.pdf) [[Code]](https://github.com/haoxintu/Xdead) [[Slides]](https://haoxintu.github.io/files/Xdead-ICSE-NIER-slides.pdf)
  * [CCS 2023] Pansilu Pitigalaarachchi, Xuhua Ding, Haiqing Qiu, **Haoxin Tu**, Jiaqi Hong, and Lingxiao Jiang, "**KRover: A Symbolic Execution Engine for Dynamic Kernel Analysis**", in *Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS 2023)*. [[PDF]](https://haoxintu.github.io/files/ccs2023_krover.pdf) [[Code]](https://github.com/KRoverSystems/KRover)
  * [ICSE 2023] **Haoxin Tu**, "**Boosting Symbolic Execution for Heap-based Vulnerability Detection and Exploit Generation**", in *the Doctoral Symposium Track of IEEE/ACM International Conference on Software Engineering (ICSE 2023)*. [[PDF]](https://haoxintu.github.io/files/icse23-ds-paper.pdf) [[Poster]](https://haoxintu.github.io/files/icse23-ds-poster.pdf)
@@ -12,10 +12,14 @@ author_profile: true
  * [ISSRE 2022] **Haoxin Tu**, He Jiang, Xiaochen Li, Zhilei Ren, Zhide Zhou, and Lingxiao Jiang, "**RemGen: Remanufacturing A Random Program Generator for Compiler Testing**", in *the 33rd IEEE International Symposium on Software Reliability Engineering (ISSRE 2022)*. [[PDF]](https://haoxintu.github.io/files/issre2022-camera-ready.pdf) [[Code]](https://github.com/haoxintu/RemCCG) [[Slides]](https://haoxintu.github.io/files/RemGen-slides.pdf)
 
 
-### Journal Paper
+### Journal Papers
  * [TSE 2024] **Haoxin Tu**, Zhide Zhou, He Jiang, Imam Nur Bani Yusuf, Yuxian Li, and Lingxiao Jiang, "**Isolating Compiler Bugs by Generating Effective Witness Programs with Large Language Models**", in *IEEE Transactions on Software Engineering*, 2024. [[PDF]](https://arxiv.org/pdf/2307.00593.pdf) [[Code]](https://github.com/haoxintu/LLM4CBI)
  * [TSE 2024] **Haoxin Tu**, Lingxiao Jiang, Jiaqi Hong, Xuhua Ding, and He Jiang, "**Concretely Mapped Symbolic Memory Locations for Memory Error Detection**", in *IEEE Transactions on Software Engineering*, 2024. [[PDF]](https://haoxintu.github.io/files/SymLoc_TSE2024_Just_Accepted.pdf) [[Code]](https://github.com/haoxintu/SymLoc)
+     * Also presented within *Journal first Paper Track* of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024), Sacramento, California, United States.
  * [TR 2022] **Haoxin Tu**, He Jiang, Zhide Zhou, Yixuan Tang, Zhilei Ren, Lei Qiao, and Lingxiao Jiang, "**Detecting C++ Compiler Front-end Bugs via Grammar Mutation and Differential Testing**", in *IEEE Transactions on Reliability*, 2022. [[IEEE Early Access]](https://ieeexplore.ieee.org/document/9777893) [[Authors' Draft]](https://haoxintu.github.io/files/tr-2022-draft.pdf) [[Bug Reports]](https://github.com/haoxintu/CCOFT/blob/main/reported-bugs.md)
+
+### Pre-prints
+ * [Conference] **Haoxin Tu**, Lingxiao Jiang, and Marcel Böhme, "**Vital: Vulnerability-Oriented Symbolic Execution via Type-Unsafe Pointer-Guided Monte Carlo Tree Search**", *under review* of a conference, 2024. [[PDF]](https://arxiv.org/pdf/2408.08772) [[Code]](https://github.com/haoxintu/Vital)
 
 
 ### Ph.D. Thesis
