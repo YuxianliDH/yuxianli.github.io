@@ -1,7 +1,7 @@
 ---
 title: 'Some thoughts after internship'
 date: 2024-08-30
-permalink: /posts/2024/08/internship-thoughts/
+permalink: /posts/2024/08/thoughts-after-internship/
 tags:
   - research
   - thinking
