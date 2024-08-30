@@ -1,0 +1,16 @@
+---
+title: 'Some thoughts for internship'
+date: 2024-08-30
+permalink: /posts/2024/08/internship-last-day/
+tags:
+  - research
+  - thinking
+location: "Bochum, Germany"
+---
+
+I can't believe how fast time flies, but today I have to say goodbye to everyone at #MPI-SP (https://www.mpi-sp.org/) as it marks the official end of my 4-month internship in Marcel's group. 
+First and foremost, I want to extend my deepest thanks to Marcel for giving me this incredible opportunity. Together, we worked on a new vulnerability-oriented path search strategy (where we suggest using type unsafe pointers to approximate the vulnerability behavior of a path and utilize a new unsafe pointer-guided Monte Carlo Tree Search algorithm to navigate vulnerability-oriented path searches: https://arxiv.org/pdf/2408.08772) and began exploring structural input generation for symbolic execution (ongoing work). 
+
+
+
+### xxx
