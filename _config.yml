@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Haoxin Tu (涂浩新)"
-  avatar           : "website.png"
+  avatar           : "thx-2024.png"
   bio              : "Dual-degree PhD Candidate at DUT & SMU, interested in fuzzing, compiler testing, and program analysis"
   location         : "SMU, Singapore" #"Dalian, China"
   employer         :
