@@ -18,8 +18,6 @@ author_profile: true
      * Also presented within *Journal first Paper Track* of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024), Sacramento, California, United States.
  * [TR 2022] **Haoxin Tu**, He Jiang, Zhide Zhou, Yixuan Tang, Zhilei Ren, Lei Qiao, and Lingxiao Jiang, "**Detecting C++ Compiler Front-end Bugs via Grammar Mutation and Differential Testing**", in *IEEE Transactions on Reliability*, 2022. [[IEEE Early Access]](https://ieeexplore.ieee.org/document/9777893) [[Authors' Draft]](https://haoxintu.github.io/files/tr-2022-draft.pdf) [[Bug Reports]](https://github.com/haoxintu/CCOFT/blob/main/reported-bugs.md)
 
-### Pre-prints
- * [Conference] **Haoxin Tu**, Lingxiao Jiang, and Marcel Böhme, "**Vital: Vulnerability-Oriented Symbolic Execution via Type-Unsafe Pointer-Guided Monte Carlo Tree Search**", *under review* of a conference, 2024. [[PDF]](https://arxiv.org/pdf/2408.08772) [[Code]](https://github.com/haoxintu/Vital)
 
 
 ### Ph.D. Thesis
