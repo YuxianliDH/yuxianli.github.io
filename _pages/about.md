@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Haoxin is currently a Dual-degree Ph.D. candidate in *Computer Science*, supervised by Prof. [ Lingxiao Jiang ](http://www.mysmu.edu/faculty/lxjiang/) and Prof. [ Xuhua Ding ](http://www.mysmu.edu/faculty/xhding/), at the School of Computing and Information Systems in [ Singapore Management University (SMU)](https://www.smu.edu.sg/), and in *Software Engineering*, supervised by Prof. [ He Jiang ](http://faculty.dlut.edu.cn/jianghe/en/index.htm), at the School of Software in [ Dalian University of Technology (DUT)](https://www.dlut.edu.cn/). He earned his first Ph.D. degree from DUT in December 2023. He was a summer intern in [Marcel Böhme](https://mboehme.github.io/)'s group at [MPI-SP](https://mpi-softsec.github.io/) from May to August 2024.
+Yuxian is currently a Dual-degree Ph.D. candidate in *Computer Science*, supervised by Prof. [ Lingxiao Jiang ](http://www.mysmu.edu/faculty/lxjiang/) and Prof. [ Xuhua Ding ](http://www.mysmu.edu/faculty/xhding/), at the School of Computing and Information Systems in [ Singapore Management University (SMU)](https://www.smu.edu.sg/), and in *Software Engineering*, supervised by Prof. [ He Jiang ](http://faculty.dlut.edu.cn/jianghe/en/index.htm), at the School of Software in [ Dalian University of Technology (DUT)](https://www.dlut.edu.cn/). He earned his first Ph.D. degree from DUT in December 2023. He was a summer intern in [Marcel Böhme](https://mboehme.github.io/)'s group at [MPI-SP](https://mpi-softsec.github.io/) from May to August 2024.
 
 
 <p align="center" > <b> <i> <big> "To err is human, but to really foul things up you need a computer." </big> </i></b></p>
