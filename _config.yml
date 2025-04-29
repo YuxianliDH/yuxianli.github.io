@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Haoxin Tu (涂浩新)"
-  avatar           : "thx-2024.png"
-  bio              : "Dual-degree PhD Candidate at DUT & SMU, interested in fuzzing, compiler testing, and program analysis"
+  name             : "Yuxian Li (李宇娴)"
+  avatar           : "yuxianli.jpeg"
+  bio              : "Research Fellow at SMU"
   location         : "SMU, Singapore" #"Dalian, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
