@@ -27,9 +27,9 @@ zero‑knowledge proof of knowledge and homomorphic encryption schemes), to reso
   
   * [April 2025] Our work "[*IvyAPC: Auditable Generalized Payment Channels*](https://fc25.ifca.ai/preproceedings/277.pdf)" was accepted and presented by the Financial Cryptography and Data Security (FC) 2025.
   * [April 2025] Opened my academic homepage! 
-  * [Jan 2025] Our work "[*AuditPCH: Auditable Payment Channel Hub With Privacy Protection*]"(https://ieeexplore.ieee.org/abstract/document/10793449/)" was public in IEEE Transactions on Information Forensics and Security (TIFS).
-  * [Oct 2023] Our work "[*PRI: PCH-based privacy-preserving with reusability and interoperability for enhancing blockchain scalability*]"(https://www.sciencedirect.com/science/article/abs/pii/S0743731523000916)" was public in Journal of Parallel and Distributed Computing (JPDC).
-  * [Nov 2022] Our work "[*ZeroCross: A sidechain-based privacy-preserving Cross-chain solution for Monero*]"(https://www.sciencedirect.com/science/article/abs/pii/S0743731522001733)" was public in Journal of Parallel and Distributed Computing (JPDC).
+  * [Jan 2025] Our work "[*AuditPCH: Auditable Payment Channel Hub With Privacy Protection*](https://ieeexplore.ieee.org/abstract/document/10793449/)" was public in IEEE Transactions on Information Forensics and Security (TIFS).
+  * [Oct 2023] Our work "[*PRI: PCH-based privacy-preserving with reusability and interoperability for enhancing blockchain scalability*](https://www.sciencedirect.com/science/article/abs/pii/S0743731523000916)" was public in Journal of Parallel and Distributed Computing (JPDC).
+  * [Nov 2022] Our work "[*ZeroCross: A sidechain-based privacy-preserving Cross-chain solution for Monero*](https://www.sciencedirect.com/science/article/abs/pii/S0743731522001733)" was public in Journal of Parallel and Distributed Computing (JPDC).
 
 <p align="right"> [Last updated on August 2024] </p>
 
