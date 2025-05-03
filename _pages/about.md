@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yuxian is currently a Research Fellow in *Blockchain Application and Security*, supervised by Prof. [ Guomin Yang ]((https://faculty.smu.edu.sg/profile/yang-guomin-6571)) and Prof. [Robert Deng] (https://faculty.smu.edu.sg/profile/robert-h-deng-891), at the School of Computing and Information Systems in [ Singapore Management University (SMU)](https://www.smu.edu.sg/). She earned her  Ph.D. degree from Jinan University in December 2023 and was supervised by Prof Jian Weng (https://scholar.google.com/citations?user=7xRkSZAAAAAJ&hl=zh-CN).  
+Yuxian is currently a Research Fellow in *Blockchain Application and Security*, supervised by Prof. [ Guomin Yang ](https://faculty.smu.edu.sg/profile/yang-guomin-6571) and Prof. [Robert Deng](https://faculty.smu.edu.sg/profile/robert-h-deng-891), at the School of Computing and Information Systems in [ Singapore Management University (SMU)](https://www.smu.edu.sg/). She earned her  Ph.D. degree from Jinan University in December 2023 and was supervised by [Prof Jian Weng](https://scholar.google.com/citations?user=7xRkSZAAAAAJ&hl=zh-CN).  
 
 
 <p align="center" > <b> <i> <big> "Le vent se lève, il faut tenter de vivre." </big> </i></b></p>
