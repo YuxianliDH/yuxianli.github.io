@@ -31,7 +31,7 @@ zero‑knowledge proof of knowledge and homomorphic encryption schemes), to reso
   * [Oct 2023] Our work "[*PRI: PCH-based privacy-preserving with reusability and interoperability for enhancing blockchain scalability*](https://www.sciencedirect.com/science/article/abs/pii/S0743731523000916)" was public in Journal of Parallel and Distributed Computing (JPDC).
   * [Nov 2022] Our work "[*ZeroCross: A sidechain-based privacy-preserving Cross-chain solution for Monero*](https://www.sciencedirect.com/science/article/abs/pii/S0743731522001733)" was public in Journal of Parallel and Distributed Computing (JPDC).
 
-<p align="right"> [Last updated on August 2024] </p>
+<p align="right"> [Last updated on May 2025] </p>
 
 
 
